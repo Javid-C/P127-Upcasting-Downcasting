@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\P127_Upcasting,Downcasting\P127_Upcasting,Downcasting\bin\Debug\netcoreapp3.1\P127_Upcasting,Downcasting.exe
+C:\Users\Lenovo\source\repos\P127_Upcasting,Downcasting\P127_Upcasting,Downcasting\bin\Debug\netcoreapp3.1\P127_Upcasting,Downcasting.deps.json
+C:\Users\Lenovo\source\repos\P127_Upcasting,Downcasting\P127_Upcasting,Downcasting\bin\Debug\netcoreapp3.1\P127_Upcasting,Downcasting.runtimeconfig.json
+C:\Users\Lenovo\source\repos\P127_Upcasting,Downcasting\P127_Upcasting,Downcasting\bin\Debug\netcoreapp3.1\P127_Upcasting,Downcasting.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\P127_Upcasting,Downcasting\P127_Upcasting,Downcasting\bin\Debug\netcoreapp3.1\P127_Upcasting,Downcasting.dll
+C:\Users\Lenovo\source\repos\P127_Upcasting,Downcasting\P127_Upcasting,Downcasting\bin\Debug\netcoreapp3.1\P127_Upcasting,Downcasting.pdb
+C:\Users\Lenovo\source\repos\P127_Upcasting,Downcasting\P127_Upcasting,Downcasting\obj\Debug\netcoreapp3.1\P127_Upcasting,Downcasting.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\P127_Upcasting,Downcasting\P127_Upcasting,Downcasting\obj\Debug\netcoreapp3.1\P127_Upcasting,Downcasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\P127_Upcasting,Downcasting\P127_Upcasting,Downcasting\obj\Debug\netcoreapp3.1\P127_Upcasting,Downcasting.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\P127_Upcasting,Downcasting\P127_Upcasting,Downcasting\obj\Debug\netcoreapp3.1\P127_Upcasting,Downcasting.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\P127_Upcasting,Downcasting\P127_Upcasting,Downcasting\obj\Debug\netcoreapp3.1\P127_Upcasting,Downcasting.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\P127_Upcasting,Downcasting\P127_Upcasting,Downcasting\obj\Debug\netcoreapp3.1\P127_Upcasting,Downcasting.dll
+C:\Users\Lenovo\source\repos\P127_Upcasting,Downcasting\P127_Upcasting,Downcasting\obj\Debug\netcoreapp3.1\P127_Upcasting,Downcasting.pdb
+C:\Users\Lenovo\source\repos\P127_Upcasting,Downcasting\P127_Upcasting,Downcasting\obj\Debug\netcoreapp3.1\P127_Upcasting,Downcasting.genruntimeconfig.cache
